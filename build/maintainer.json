@@ -572,6 +572,9 @@
     "/blockbeats/:channel?": [
         "Fatpandac"
     ],
+    "/bloomberg/authors/:id/:slug": [
+        "josh"
+    ],
     "/bloomberg/:site?": [
         "bigfei"
     ],
@@ -872,6 +875,9 @@
     ],
     "/curius/links/:name": [
         "Ovler-Young"
+    ],
+    "/cw/author/:channel": [
+        "TonyRL"
     ],
     "/cw/master/:channel": [
         "TonyRL"
@@ -2400,7 +2406,7 @@
     "/jike/topic/text/:id": [
         "HenryQW"
     ],
-    "/jike/topic/:id": [
+    "/jike/topic/:id/:showUid?": [
         "DIYgod",
         "prnake"
     ],
@@ -4548,6 +4554,9 @@
     "/xueqiu/user_stock/:id": [
         "hillerliao"
     ],
+    "/xunhupay/blog": [
+        "Joey"
+    ],
     "/xwlb/": [
         "xfangbao"
     ],
@@ -4681,6 +4690,9 @@
     ],
     "/zaobao/:type?/:section?": [
         "shunf4"
+    ],
+    "/zaozao/article/:type?": [
+        "shaomingbo"
     ],
     "/zcmu/jwc/:type?": [
         "CCraftY"

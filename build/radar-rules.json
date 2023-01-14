@@ -2181,16 +2181,25 @@
     ]
   },
   "bloomberg.com": {
-    "_name": "bloomberg",
+    "_name": "Bloomberg",
     "www": [
       {
-        "title": "Bloomberg",
-        "docs": "https://docs.rsshub.app/finance.html##bloomberg-news",
+        "title": "News",
+        "docs": "https://docs.rsshub.app/finance.html#bloomberg-news",
         "source": [
           "/:site",
           "/"
         ],
         "target": "/bloomberg/:site?"
+      },
+      {
+        "title": "Authors",
+        "docs": "https://docs.rsshub.app/finance.html#bloomberg",
+        "source": [
+          "/*/authors/:id/:slug",
+          "/authors/:id/:slug"
+        ],
+        "target": "/bloomberg/authors/:id/:slug"
       }
     ]
   },
@@ -3525,6 +3534,14 @@
         "source": [
           "/subchannel.action"
         ]
+      },
+      {
+        "title": "作者",
+        "docs": "https://docs.rsshub.app/traditional-media.html#tian-xia-za-zhi",
+        "source": [
+          "/author/:channel"
+        ],
+        "target": "/cw/author/:channel"
       }
     ]
   },
@@ -18176,6 +18193,19 @@
       }
     ]
   },
+  "xunhupay.com": {
+    "_name": "虎皮椒",
+    "www": [
+      {
+        "title": "博客",
+        "docs": "https://docs.rsshub.app/blog.html#hu-pi-jiao",
+        "source": [
+          "/blog"
+        ],
+        "target": "/xunhupay/blog"
+      }
+    ]
+  },
   "xwlb.com.cn": {
     "_name": "新闻联播直播",
     ".": [
@@ -18743,6 +18773,19 @@
           "/news/world"
         ],
         "target": "/zaobao/znews/world"
+      }
+    ]
+  },
+  "zaozao.run": {
+    "_name": "前端早早聊",
+    "www": [
+      {
+        "title": "文章",
+        "docs": "https://docs.rsshub.app/programming.html#qian-duan-zao-zao-liao",
+        "source": [
+          "/article/:type"
+        ],
+        "target": "/zaozao/article/:type"
       }
     ]
   },
