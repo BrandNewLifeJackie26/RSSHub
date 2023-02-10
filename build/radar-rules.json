@@ -845,6 +845,19 @@
       }
     ]
   },
+  "acg17.com": {
+    "_name": "ACG17",
+    ".": [
+      {
+        "title": "全部文章",
+        "docs": "https://docs.rsshub.app/anime.html#acg17",
+        "source": [
+          "/post"
+        ],
+        "target": "/acg17/post/all"
+      }
+    ]
+  },
   "acs.org": {
     "_name": "American Chemistry Society",
     "pubs": [
@@ -2837,6 +2850,19 @@
           "/"
         ],
         "target": "/cankaoxiaoxi/news/world_news"
+      }
+    ]
+  },
+  "cartoonmad.com": {
+    "_name": "動漫狂",
+    ".": [
+      {
+        "title": "漫画更新",
+        "docs": "https://docs.rsshub.app/anime.html#dong-man-kuang",
+        "source": [
+          "/comic/:id"
+        ],
+        "target": "/cartoonmad/comic/:id"
       }
     ]
   },
@@ -10569,6 +10595,19 @@
       }
     ]
   },
+  "jiaoliudao.com": {
+    "_name": "交流岛资源网",
+    ".": [
+      {
+        "title": "最新文章",
+        "docs": "https://docs.rsshub.app/blog.html#jiao-liu-dao-zi-yuan-wang",
+        "source": [
+          "/"
+        ],
+        "target": "/jiaoliudao"
+      }
+    ]
+  },
   "jiemian.com": {
     "_name": "界面新闻",
     ".": [
@@ -10617,6 +10656,19 @@
         "docs": "https://docs.rsshub.app/social-media.html#ji-ke",
         "source": "/topics/:id",
         "target": "/jike/topic/text/:id"
+      }
+    ]
+  },
+  "jin10.com": {
+    "_name": "金十数据",
+    ".": [
+      {
+        "title": "市场快讯",
+        "docs": "https://docs.rsshub.app/finance.html#jin-shi-shu-ju",
+        "source": [
+          "/"
+        ],
+        "target": "/jin10"
       }
     ]
   },
@@ -14409,6 +14461,19 @@
       }
     ]
   },
+  "piyao.org.cn": {
+    "_name": "中国互联网联合辟谣平台",
+    ".": [
+      {
+        "title": "今日辟谣",
+        "docs": "https://docs.rsshub.app/other.html#zhong-guo-hu-lian-wang-lian-he-pi-yao-ping-tai",
+        "source": [
+          "/jrpy/index.htm"
+        ],
+        "target": "/piyao/jrpy"
+      }
+    ]
+  },
   "pku.edu.cn": {
     "_name": "北京大学",
     "admission": [
@@ -15292,6 +15357,24 @@
           "/"
         ],
         "target": "/rfi/news"
+      }
+    ]
+  },
+  "rodong.rep.kp": {
+    "_name": "劳动新闻",
+    ".": [
+      {
+        "title": "新闻",
+        "docs": "https://docs.rsshub.app/traditional-media.html#lao-dong-xin-wen",
+        "source": [
+          "/cn/index.php",
+          "/en/index.php",
+          "/ko/index.php",
+          "/cn",
+          "/en",
+          "/ko"
+        ],
+        "target": "/rodong/news"
       }
     ]
   },

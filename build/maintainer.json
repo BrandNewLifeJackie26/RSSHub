@@ -149,6 +149,9 @@
     "/acfun/user/video/:uid": [
         "wdssmq"
     ],
+    "/acg17/post/all": [
+        "SunBK201"
+    ],
     "/acs/journal/:id": [
         "nczitzk"
     ],
@@ -671,6 +674,9 @@
     ],
     "/cankaoxiaoxi/news/:category": [
         "yuxinliu-alex"
+    ],
+    "/cartoonmad/comic/:id": [
+        "KellyHwong"
     ],
     "/cast/:column?": [
         "TonyRL"
@@ -2520,6 +2526,9 @@
     "/jewishmuseum/exhibitions": [
         "chazeon"
     ],
+    "/jiaoliudao/": [
+        "TonyRL"
+    ],
     "/jiemian/list/:id?": [
         "WenhuWee",
         "nczitzk"
@@ -2537,6 +2546,9 @@
     "/jike/user/:id": [
         "DIYgod",
         "prnake"
+    ],
+    "/jin10/:important?": [
+        "laampui"
     ],
     "/jisilu/:category?/:sort?/:day?": [
         "nczitzk"
@@ -3400,6 +3412,9 @@
     "/pixiv/user/:id": [
         "DIYgod"
     ],
+    "/piyao/jrpy": [
+        "Fatpandac"
+    ],
     "/pku/admission/sszs": [
         "pkuyjs"
     ],
@@ -3589,6 +3604,9 @@
     "/qq/ac/rank/:type?/:time?": [
         "nczitzk"
     ],
+    "/qq/fact": [
+        "hoilc"
+    ],
     "/qq/kg/:userId": [
         "zhangxiang012"
     ],
@@ -3674,6 +3692,9 @@
     ],
     "/rfi/news": [
         "nczitzk"
+    ],
+    "/rodong/news/:language?": [
+        "TonyRL"
     ],
     "/rsshub/routes/:lang?": [
         "DIYgod"
@@ -5359,7 +5380,6 @@
     "/xiachufang/popular/:timeframe?": [],
     "/eeo/:column?/:category?": [],
     "/tencentvideo/playlist/:id": [],
-    "/cartoonmad/comic/:id": [],
     "/vol/:mode?": [],
     "/dongmanmanhua/:category/:name/:id": [],
     "/webtoons/:lang/:category/:name/:id": [],
@@ -5600,7 +5620,6 @@
     "/aptonic/action/:untested?": [],
     "/im2maker/:channel?": [],
     "/cninfo/announcement/:column/:code/:orgId/:category?/:search?": [],
-    "/jinshi/index": [],
     "/gov/moa/sjzxfb": [],
     "/gov/moa/:suburl(.*)": [],
     "/nosetime/:id/:type/:sort?": [],
@@ -5702,7 +5721,6 @@
     "/zhanqi/room/:id": [],
     "/wineyun/:category": [],
     "/kzfeed/topic/:id": [],
-    "/factcheck": [],
     "/x-mol/news/:tag?": [],
     "/x-mol/paper/:type/:magazine": [],
     "/zhishifenzi/news/:type?": [],
